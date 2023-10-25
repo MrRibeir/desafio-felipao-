@@ -7,8 +7,7 @@ ________________________________________________________________________________
 
 ## SEGUNDO DESAFIO DO FELIPÃO
 
-![Captura de tela 2023-10-25 151527](https://github.com/MrRibeir/desafio-felipao-/assets/148346937/d0045b3a-cf80-4cac-a483-e4bf313fa25e)
-
+![Captura de tela 2023-10-25 152206](https://github.com/MrRibeir/desafio-felipao-/assets/148346937/a3019ffb-6834-431d-a21d-7fc99a845b52)
 
 # DESAFIO RESOLVIDO!!
 ____________________________________________________________________________________________________________________
